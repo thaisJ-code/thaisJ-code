@@ -1,6 +1,7 @@
+<h1 align="center">Hi there, I'm Thaís! 👋</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ThaissJ/thaisJ-code/main/audio-tech-banner-abstract.png" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=AUDIO%20%26%20SPEECH%20TECH&fontSize=50&fontColor=00FF41&fontAlignY=50&fontAlign=50&animation=fadeIn" width="100%">
 </p>
 
 <p align="center">
@@ -9,8 +10,6 @@
   <img src="https://img.shields.io/badge/Demucs-FF4B4B?style=for-the-badge&logo=audio&logoColor=white">
   <img src="https://img.shields.io/badge/Whisper_OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
 </p>
-
-# Hi there, I'm Thaís! 👋
 
 Welcome to my audio and speech technology space. I specialize in processing audio signals, focusing on cleaning, source separation, and data formatting.
 
