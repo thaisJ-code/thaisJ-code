@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="font-family: sans-serif; font-weight: bold; letter-spacing: 2px;">Hi there, I'm Thaís! 👋🏻</h1>
+  <h1 style="font-family: sans-serif; font-weight: bold; letter-spacing: 2px;">Hello,I'm Thaís! 👋🏻</h1>
 </div>
 
 <br>
