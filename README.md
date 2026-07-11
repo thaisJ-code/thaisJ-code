@@ -1,7 +1,8 @@
+<img width="1199" height="903" alt="IMG_0515" src="https://github.com/user-attachments/assets/6e1476a4-e00f-47c4-b622-1e41a6417e5d" />
 <h1 align="center">Hi there, I'm Thaís! 👋</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=AUDIO%20%26%20SPEECH%20TECH&fontSize=50&fontColor=00FF41&fontAlignY=50&fontAlign=50&animation=fadeIn" width="100%">
+  <img src="https://github.com/user-attachments/assets/db42f72f-9fd4-4cfc-a0fb-debef937a995" width="100%">
 </p>
 
 <p align="center">
