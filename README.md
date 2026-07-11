@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ThaissJ/thaisJ-code/main/your-new-audio-banner.png" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=200&section=header&animation=fadeIn" width="100%">
 </p>
 
 <p align="center">
