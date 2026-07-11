@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Thaís! 👋
 
-<!--
-**thaisJ-code/thaisJ-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my audio and speech technology space. I specialize in processing audio signals, focusing on cleaning, noise reduction, and data formatting.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack & Tools
+* **Language:** Python
+* **Audio Analysis:** Praat, Librosa
+* **Speech-to-Text:** Whisper
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Current Focus
+* Developing clean, automated pipelines for speech and audio data analysis.
+* Building personal tech projects integrated with voice and audio diagnostics.
+
+---
+*“Transforming audio into clear information.”*
