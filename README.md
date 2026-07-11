@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Audio%20&%20Speech%20Tech&fontSize=42&fontColor=ffffff&fontAlignY=50&fontAlign=50&animation=fadeIn&font=drift" width="100%">
+  <img src="https://raw.githubusercontent.com/ThaissJ/thaisJ-code/main/your-new-audio-banner.png" width="100%">
 </p>
 
 <p align="center">
