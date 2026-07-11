@@ -1,8 +1,8 @@
-<img width="1199" height="903" alt="IMG_0515" src="https://github.com/user-attachments/assets/6e1476a4-e00f-47c4-b622-1e41a6417e5d" />
-<h1 align="center">Hi there, I'm Thaís! 👋</h1>
+<img width="1200" height="1127" alt="IMG_0523" src="https://github.com/user-attachments/assets/eed042a5-c7e7-4e78-be90-d30662767a8e" />
+<h1 align="center">Hi there, I'm Thaís! 👋🏻</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/db42f72f-9fd4-4cfc-a0fb-debef937a995" width="100%">
+  <img src="LINK_DA_SUA_NOVA_IMAGEM_AQUI" width="100%">
 </p>
 
 <p align="center">
